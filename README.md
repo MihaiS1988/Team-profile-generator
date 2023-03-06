@@ -26,4 +26,4 @@ The app can be tested with the help of *Jest* in order to make sure that classes
 *npm test*
 
 # Contact
-GitHub - 
+GitHub - https://github.com/MihaiS1988/Team-profile-generator
