@@ -4,7 +4,7 @@
   "description": "## Your Task",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/MihaiS1988/Team-profile-generator/issues"
   },
-  "homepage": "https://github.com/MihaiS1988/Team-profile-generator#readme"
+  "homepage": "https://github.com/MihaiS1988/Team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }

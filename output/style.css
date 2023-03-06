@@ -1,0 +1,22 @@
+.jumbotron {
+    background-color: rgb(226, 71, 102);
+}
+
+.card-header {
+    background-color: rgb(92, 92, 236);
+}
+
+.card-title {
+    color: aliceblue;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 4px 4px 8px black;
+    min-width: 300px;
+}
+
+.team-area {
+    gap: 25px;
+    flex-wrap: wrap;
+}
